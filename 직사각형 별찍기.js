@@ -44,3 +44,4 @@ process.stdin.on('data', data => {
     }
 
 });
+// 알게된 것 repeat 주어진 횟수만큼 반복해 붙인 새로운 "문자열"을 반환
