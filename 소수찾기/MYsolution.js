@@ -22,9 +22,11 @@ function solution(n) {
     //     }
     //     add(sum)
     //     return answer
+    // }
         var answer = 0;
         let arr = [];
     
+        
         for(let i = 2; i <= n; i ++){
              arr[i] = i
          }
